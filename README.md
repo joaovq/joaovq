@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm João Vítor</h1>
-<h3 align="center">A passionate frontend developer from Salvador,Bahia</h3>
+<h3 align="center">A passionate backend developer, but i like frontend too</h3>
+<h3 align="center"> I'm from Salvador,Bahia</h3>
 
 
 - 🔭 I’m currently working on [learning Java Spring Framework](https://github.com/joaovq/ProjetoSpring-DIO.git)
