@@ -2,6 +2,8 @@
 <h3 align="center">A passionate backend developer, but i like frontend too</h3>
 <h3 align="center"> I'm from Salvador,Bahia</h3>
 
+<p align="center"><img src="https://us.123rf.com/450wm/alexpokusay/alexpokusay1511/alexpokusay151100078/47837011-coder-programmer-developer-at-work-comic-book-pop-art-retro-style-vector-illustration-software-engin.jpg" alt="this bug or feature?"/><p/>
+
 
 # I'm...
 
