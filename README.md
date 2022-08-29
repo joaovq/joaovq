@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [learning Java Spring Framework](https://github.com/joaovq/ProjetoSpring-DIO.git)
 
-- 🌱 I’m currently learning **Frameworks, Java, Design patterns, Good practices**
+- 🌱 I’m currently learning **Frameworks (Angular and Spring), Java, Databases (MySQL)**
 
-- 💬 Ask me about **Java,Spring, Language C**
+- 💬 Ask me about **Java,Spring, HTML, CSS, JavaScript and TypeScript**
 
 - 📫 How to reach me **vitorsnta90@gmail.com**
 
