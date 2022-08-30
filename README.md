@@ -37,7 +37,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaovq&show_icons=true&locale=en&layout=compact" alt="joaovq" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joaovq&show_icons=true&locale=en" alt="joaovq" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joaovq&show_icons=true&locale=en" alt="joaovq" width="400px"/></p>
 
 <!---
 joaovq/joaovq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
