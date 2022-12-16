@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm João Vítor</h1>
 <h3 align="center">A passionate backend developer, but i like frontend too</h3>
 <h3 align="center">Currently, I'm looking to reach the Android Developer position and studying Kotlin&nbsp
-  <a href="https://www.android.com/intl/pt-BR_br/" target="_blank">
+  <a target="_blank" href="https://www.android.com/intl/pt-BR_br/">
   <img src="https://cdn-icons-png.flaticon.com/512/226/226770.png" style="width:20px"/>
   </a>
 </h3>
@@ -50,7 +50,10 @@
   </a> 
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
   </a> 
-
+  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/480/kotlin.png" alt="Kotlin" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.android.com/intl/pt-BR_br/" target="_blank" rel="noreferrer"> <img src="https://lh3.googleusercontent.com/GTmuiIZrppouc6hhdWiocybtRx1Tpbl52eYw4l-nAqHtHd4BpSMEqe-vGv7ZFiaHhG_l4v2m5Fdhapxw9aFLf28ErztHEv5WYIz5fA" alt="Android" width="40" height="40"/> 
+  </a> 
 </p>
 
 <br>
