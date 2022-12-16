@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm João Vítor</h1>
-<h3 align="center">A passionate backend developer, but i like frontend too</h3>
-<h3 align="center">Currently, I'm looking to reach the Android Developer position and studying Kotlin&nbsp
+<h4 align="center">A passionate backend developer, but i like frontend too</h4>
+<h4 align="center">Currently, I'm looking to reach the Android Developer position and studying Kotlin&nbsp
   <a target="_blank" href="https://www.android.com/intl/pt-BR_br/">
   <img src="https://cdn-icons-png.flaticon.com/512/226/226770.png" style="width:20px"/>
   </a>
-</h3>
-<h3 align="center"> I'm from Salvador,Bahia</h3>
+</h4>
+<h4 align="center"> I'm from Salvador,Bahia</h4>
 
-<p align="center"><img src="https://us.123rf.com/450wm/alexpokusay/alexpokusay1511/alexpokusay151100078/47837011-coder-programmer-developer-at-work-comic-book-pop-art-retro-style-vector-illustration-software-engin.jpg" alt="this bug or feature?"/><p/>
+<p align="center"><img src="https://us.123rf.com/450wm/alexpokusay/alexpokusay1511/alexpokusay151100078/47837011-coder-programmer-developer-at-work-comic-book-pop-art-retro-style-vector-illustration-software-engin.jpg" alt="this bug or feature?" style="width:300px"/><p/>
 
 <p align="center">
 <a href="https://github.com/joaovq/"><img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos"/></a>
@@ -26,12 +26,12 @@
 
 - ⚡ Fun fact **I love Terror Games and Comedian's series**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://dev.to/joaovq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="joaovq" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/joaovq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="joaovq" height="30" width="40" /></a>
-<a href="https://discord.gg/#2115" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#2115" height="40" width="40" /></a>
-</p>
+# My GitHub stats
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaovq&show_icons=true&locale=en&layout=compact" alt="joaovq" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joaovq&show_icons=true&locale=en" alt="joaovq" width="400px"/></p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -56,13 +56,12 @@
   </a> 
 </p>
 
-<br>
-
-# My GitHub stats
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaovq&show_icons=true&locale=en&layout=compact" alt="joaovq" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joaovq&show_icons=true&locale=en" alt="joaovq" width="400px"/></p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://dev.to/joaovq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="joaovq" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/joaovq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="joaovq" height="30" width="40" /></a>
+<a href="https://discord.gg/#2115" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#2115" height="40" width="40" /></a>
+</p>
 
 <!---
 joaovq/joaovq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
