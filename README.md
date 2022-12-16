@@ -52,7 +52,7 @@
   </a> 
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/480/kotlin.png" alt="Kotlin" width="40" height="40"/> 
   </a> 
-  <a href="https://www.android.com/intl/pt-BR_br/" target="_blank" rel="noreferrer"> <img src="https://lh3.googleusercontent.com/GTmuiIZrppouc6hhdWiocybtRx1Tpbl52eYw4l-nAqHtHd4BpSMEqe-vGv7ZFiaHhG_l4v2m5Fdhapxw9aFLf28ErztHEv5WYIz5fA" alt="Android" width="40" height="40"/> 
+  <a href="https://www.android.com/intl/pt-BR_br/" target="_blank" rel="noreferrer"> <img src="https://img.ibxk.com.br/2014/05/08/08145827911459.png" alt="Android" width="40" height="40"/> 
   </a> 
 </p>
 
