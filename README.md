@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm João Vítor</h1>
 <h4 align="center">A passionate backend developer, but i like frontend too</h4>
-<h4 align="center">Currently, I'm looking to reach the Android Developer position and studying Kotlin&nbsp
+<h4 align="center">I am an android development enthusiast and I like to encourage my creativity to the creating applications based on my ideas and through that, share my experiences with others, in an accessible way. Currently, I'm looking to reach the Android Developer position and studying Kotlin with Android View and Jetpack Compose&nbsp
   <a target="_blank" href="https://www.android.com/intl/pt-BR_br/">
   <img src="https://cdn-icons-png.flaticon.com/512/226/226770.png" style="width:20px"/>
   </a>
 </h4>
+
 <h4 align="center"> I'm from Salvador,Bahia</h4>
 
 <p align="center"><img src="https://us.123rf.com/450wm/alexpokusay/alexpokusay1511/alexpokusay151100078/47837011-coder-programmer-developer-at-work-comic-book-pop-art-retro-style-vector-illustration-software-engin.jpg" alt="this bug or feature?" style="width:300px"/><p/>
@@ -16,15 +17,13 @@
 
 # I'm...
 
-- 🔭 I’m currently working on [learning programming in Kotlin](https://github.com/joaovq/QuizAppUdemy.git)
+- 🔭 I’m currently working on [learning programming in Kotlin](https://github.com/joaovq/InfoFootbballApp.git)
 
-- 🌱 I’m currently learning **Architecute Android and programming with Kotlin**
+- 🌱 I’m currently learning **Creating my personal projects, integration View with Jetpack Compose and Test's in Android**
 
 - 💬 Ask me about **Android, Kotlin, Java,Spring, HTML, CSS and PHP**
 
-- 📫 How to reach me **vitorsnta90@gmail.com**
-
-- ⚡ Fun fact **I love Terror Games and Comedian's series**
+- 📫 How to reach me **joaovqdev@gmail.com**
 
 # My GitHub stats
 
