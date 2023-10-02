@@ -17,11 +17,14 @@
 
 # I'm...
 
-- 🔭 I’m currently working on [learning programming in Kotlin](https://github.com/joaovq/InfoFootbballApp.git)
+- 🌱 I’m currently learning:
+  - **Creating my personal projects, integration View with Jetpack Compose and Test's in Android**
+  - Integration with API's, Android.
+  - Create enviroments dev with Docker and Docker Compose and Deploy Services
+  - CI/CD with Github Actions, GitLab and Jenkins
+ 
 
-- 🌱 I’m currently learning **Creating my personal projects, integration View with Jetpack Compose and Test's in Android**
-
-- 💬 Ask me about **Android, Kotlin, Java,Spring, HTML, CSS and PHP**
+- 💬 Ask me about **Android, Kotlin, Java, Spring, and Python for web apps**
 
 - 📫 How to reach me **joaovqdev@gmail.com**
 
