@@ -18,7 +18,7 @@
 # I'm...
 
 - 🌱 I’m currently learning:
-  - **Creating my personal projects, integration View with Jetpack Compose and Test's in Android**
+  - **Creating my personal projects, integration View with Jetpack Compose and Test's in Android or APIs with Spring/Ktor**
   - Integration with API's, Android.
   - Create enviroments dev with Docker and Docker Compose and Deploy Services
   - CI/CD with Github Actions, GitLab and Jenkins
