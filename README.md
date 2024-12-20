@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm João Vítor</h1>
 <h4 align="center">I'm passionate about technology and what it can provide.</h4>
-<h4 align="center">I am an Software Development enthusiast and I like to encourage my creativity to the creating applications based on my ideas and through that, share my experiences with others, in an accessible way. Currently, I'm looking to reach the Android Developer position and studying Kotlin with Android View and Jetpack Compose&nbsp
+<h4 align="center">I am an Software Development enthusiast and I like to encourage my creativity to the creating applications based on my ideas and through that, share my experiences with others, in an accessible way. Currently, I'm looking to reach the Android Developer position and studying Kotlin/Java with Android View, Jetpack Compose&nbsp
   <a target="_blank" href="https://www.android.com/intl/pt-BR_br/">
   <img src="https://cdn-icons-png.flaticon.com/512/226/226770.png" style="width:20px"/>
   </a>
