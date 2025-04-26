@@ -1,12 +1,10 @@
-<h1 align="center">Hi 👋, I'm João Vítor</h1>
+<h1 align="center">Hi, I'm João Vítor</h1>
 <h4 align="center">I'm passionate about technology and what it can provide.</h4>
 <h4 align="center">I am an Software Development enthusiast and I like to encourage my creativity to the creating applications based on my ideas and through that, share my experiences with others, in an accessible way. Currently, I'm looking to reach the Android Developer position and studying Kotlin/Java with Android View, Jetpack Compose&nbsp
   <a target="_blank" href="https://www.android.com/intl/pt-BR_br/">
   <img src="https://cdn-icons-png.flaticon.com/512/226/226770.png" style="width:20px"/>
   </a>
 </h4>
-
-<h4 align="center"> I'm from Salvador,Bahia</h4>
 
 <p align="center"><img src="https://us.123rf.com/450wm/alexpokusay/alexpokusay1511/alexpokusay151100078/47837011-coder-programmer-developer-at-work-comic-book-pop-art-retro-style-vector-illustration-software-engin.jpg" alt="this bug or feature?" style="width:300px"/><p/>
 
@@ -24,7 +22,7 @@
   - CI/CD with Github Actions, GitLab and Jenkins
  
 
-- 💬 Ask me about **Android, Kotlin, Java, Spring, and Python for web apps**
+- 💬 Ask me about **Android, Kotlin, Java, Spring**
 
 - 📫 How to reach me **joaovqdev@gmail.com**
 
